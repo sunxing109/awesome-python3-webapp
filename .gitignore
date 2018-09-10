@@ -1,0 +1,11 @@
+.idea/
+logs/*.log
+*.sqlite3
+*.o
+*.dSYM
+
+*.swp
+creds.json
+*.pid
+*.mov
+.vscode/

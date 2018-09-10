@@ -9,3 +9,4 @@ creds.json
 *.pid
 *.mov
 .vscode/
+.git/
